@@ -1,0 +1,3 @@
+hitohi = cat
+
+print('cat')
